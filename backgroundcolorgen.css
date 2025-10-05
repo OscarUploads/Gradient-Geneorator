@@ -1,0 +1,21 @@
+textarea{
+    height: 200px;
+    width: 500px;
+}
+hr{
+    padding-top: 10px;
+    padding-bottom:10px ;
+}
+button{
+    float: right;
+}
+h1{
+    color: rgb(71, 68, 68);
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    background-color: #198754;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
